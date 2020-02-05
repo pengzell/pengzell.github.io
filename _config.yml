@@ -1,16 +1,16 @@
 # Site settings
-title:          Tale
-description:    "Minimal Jekyll theme for storytellers"
-url:            "https://chesterhow.github.io"
+title:          Per Engzell
+description:    "Prize Research Fellow in Sociology"
+url:            "https://pengzell.github.io"
 
 # Google Analytics
 google_analytics: UA—XXXXXXXX-X
 
 # Author
 author:
-  name:         Chester How
-  url:          https://chester.how
-  email:        chesterhow@gmail.com
+  name:         Per Engzell
+  url:          https://pengzell.github.io
+  email:        per.engzell@nuffield.ox.ac.uk
 
 # Build settings
 markdown:       kramdown
