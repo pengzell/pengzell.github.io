@@ -21,4 +21,4 @@ Other Publications
 - Engzell, P., and Tropf, F. (2019). "The Long Arm of the Family". [*Population Europe*](https://population-europe.eu/pop-digest/long-arm-family).
 - Berger, T., and Engzell, P. (2019). "Brave Old World: Immigration, Inequality and Intergenerational Mobility in the US." [*VoxEU*](https://voxeu.org/article/immigration-inequality-and-intergenerational-mobility-us).
 - Berger, T., and Engzell, P. (2019). "Ursprungets sociala mobilitet." [*Ekonomistas*](https://ekonomistas.se/2019/03/18/gastinlagg-ursprungets-sociala-mobilitet/).
-- Engzell, P. (2017). Intergenerational Persistence and Ethnic Disparities in Education. Swedish Institute for Social Research Dissertation Series, 95.
+- Engzell, P. (2017). Intergenerational Persistence and Ethnic Disparities in Education. [*Swedish Institute for Social Research Dissertation Series*](http://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1049235&dswid=4839).
