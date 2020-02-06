@@ -5,8 +5,6 @@ author: "Per Engzell"
 permalink: /about/
 ---
 
-![Per Engzell](unnamed.jpg)
-
 <img style="float: right;" src="unnamed.jpg" width="200" height="200">
 
 Prize Research Fellow in Sociology at [Nuffield College](https://www.nuffield.ox.ac.uk), University of Oxford.
