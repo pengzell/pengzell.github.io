@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: plain
 title: "Teaching"
 author: "Per Engzell"
 permalink: /teaching/
