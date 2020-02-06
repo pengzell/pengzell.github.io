@@ -1,6 +1,6 @@
 ---
 layout: plain
-title: "About"
+title: "Per Engzell"
 author: "Per Engzell"
 ---
 
