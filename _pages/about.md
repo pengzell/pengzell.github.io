@@ -2,7 +2,7 @@
 layout: plain
 title: "About"
 author: "Per Engzell"
-permalink: /
+permalink: /about/
 ---
 
 ![Per Engzell](portrait.jpg){:style="float:right; margin:10px; width: 33%;"}
