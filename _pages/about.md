@@ -5,7 +5,8 @@ author: "Per Engzell"
 permalink: /about/
 ---
 
-<img style="float: right;" src="unnamed.jpg">
+<img style="float: right;" src="unnamed.jpg" width="500" height="500">
+
 Prize Research Fellow in Sociology at [Nuffield College](https://www.nuffield.ox.ac.uk), University of Oxford.
 
 [My research](https://pengzell.github.io/inprogress/) focuses on intergenerational socioeconomic mobility and its variation across place and time. In my work, I draw on novel data including historical Censuses and genetically informed designs. 
