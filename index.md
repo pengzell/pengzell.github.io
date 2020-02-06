@@ -12,10 +12,10 @@ Prize Research Fellow in Sociology at [Nuffield College](https://www.nuffield.ox
 
 I received my PhD from Stockholm University and hold  affiliations with the [Leverhulme Centre for Demographic Science](http://www.demographicscience.ox.ac.uk), Oxford, and the [Swedish Institute for Social Research](https://www.sofi.su.se/english/), Stockholm.
 
+Find me on [Twitter](https://twitter.com/PEngzell), [Google Scholar](https://scholar.google.com/citations?user=dM6v2S4AAAAJ&hl=en), [Publons](https://publons.com/researcher/1115850/per-engzell/)
+
 Contact information: 
 
-Nuffield College, University of Oxford
-
-1 New Road, Oxford OX1 1NF
+Nuffield College, University of Oxford, 1 New Road, Oxford OX1 1NF
 
 [per.engzell@nuffield.ox.ac.uk](mailto:per.engzell@nuffield.ox.ac.uk)
