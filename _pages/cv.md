@@ -5,6 +5,4 @@ author: "Per Engzell"
 permalink: /cv/
 ---
 
-[<img src="pdficon.png">](https://github.com/pengzell/pengzell.github.io/blob/master/_pages/_files/Curriculum_Vitae.pdf)
-
-[View PDF](https://github.com/pengzell/pengzell.github.io/blob/master/_pages/_files/Curriculum_Vitae.pdf)
+[<img src="pdficon.png">]{:style="center"; width: 50px;"}(https://github.com/pengzell/pengzell.github.io/blob/master/_pages/_files/Curriculum_Vitae.pdf)
