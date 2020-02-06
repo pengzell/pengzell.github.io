@@ -5,7 +5,7 @@ author: "Per Engzell"
 permalink: /about/
 ---
 
-![Per Engzell](RLo1h9iz.jpg)
+![Per Engzell](RLo1h9iz.jpg){:style="float: right;margin-right: 7px;margin-top: 7px;"}
 
 Prize Research Fellow in Sociology at [Nuffield College](https://www.nuffield.ox.ac.uk), University of Oxford.
 
