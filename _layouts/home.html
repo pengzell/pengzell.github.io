@@ -1,31 +1,22 @@
 ---
-layout: default
+layout: plain
+title: "About"
+author: "Per Engzell"
+permalink: /about/
 ---
 
-<div class="catalogue">
-  {% for post in paginator.posts %}
-    <a href="{{ post.url | prepend: site.baseurl }}" class="catalogue-item">
-      <div>
-        <time datetime="{{ post.date }}" class="catalogue-time">{{ post.date | date: "%B %d, %Y" }}</time>
-        <h1 class="catalogue-title">{{ post.title }}</h1>
-        <div class="catalogue-line"></div>
+![Per Engzell](portrait.jpg){:style="float:right; margin:10px; width: 33%;"}
 
-        <p>
-          {{ post.content | strip_html | truncatewords: 30 }}
-        </p>
+Prize Research Fellow in Sociology at [Nuffield College](https://www.nuffield.ox.ac.uk), University of Oxford.
 
-      </div>
-    </a>
-  {% endfor %}
-</div>
+[My research](https://pengzell.github.io/inprogress/) focuses on intergenerational socioeconomic mobility and its variation across place and time. In my work, I draw on novel data including historical Censuses and genetically informed designs. 
 
-<div class="pagination">
-  {% if paginator.previous_page %}
-    <a href="{{ paginator.previous_page_path | prepend: site.baseurl }}" class="left arrow">&#8592;</a>
-  {% endif %}
-  {% if paginator.next_page %}
-    <a href="{{ paginator.next_page_path | prepend: site.baseurl }}" class="right arrow">&#8594;</a>
-  {% endif %}
+I received my PhD from Stockholm University and hold  affiliations with the [Leverhulme Centre for Demographic Science](http://www.demographicscience.ox.ac.uk), Oxford, and the [Swedish Institute for Social Research](https://www.sofi.su.se/english/), Stockholm.
 
-  <span>{{ paginator.page }}</span>
-</div>
+Contact information: 
+
+Nuffield College, University of Oxford
+
+1 New Road, Oxford OX1 1NF
+
+[per.engzell@nuffield.ox.ac.uk](mailto:per.engzell@nuffield.ox.ac.uk)
