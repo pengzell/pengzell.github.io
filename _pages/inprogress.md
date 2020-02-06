@@ -6,7 +6,7 @@ permalink: /inprogress/
 ---
 
 ### Divergence of Income Mobility and Perceived Living Standards in the US since 1940 (with Thor Berger)
-<details>
+# <details>
 <summary>Read more</summary>
 
 
