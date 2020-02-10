@@ -15,4 +15,4 @@ permalink: /datacode/
 \[[published](https://doi.org/10.1177/0049124119826143) | [preprint](https://osf.io/preprints/socarxiv/a6jny/) | [supplements](https://journals.sagepub.com/doi/suppl/10.1177/0049124119826143) | [replication](https://osf.io/gh9kp/)\]
 
 *Status Loss: The Burden of Positively Selected Immigrants* 
-\[[published](https://doi.org/10.1177/0197918319850756) | [preprint](https://osf.io/preprints/socarxiv/qr5h7/) | [supplements](https://journals.sagepub.com/doi/suppl/10.1177/0197918319850756) [replication](https://osf.io/4mws3/)\]
+\[[published](https://doi.org/10.1177/0197918319850756) | [preprint](https://osf.io/preprints/socarxiv/qr5h7/) | [supplements](https://journals.sagepub.com/doi/suppl/10.1177/0197918319850756) | [replication](https://osf.io/4mws3/)\]
