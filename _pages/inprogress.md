@@ -5,7 +5,8 @@ author: "Per Engzell"
 permalink: /inprogress/
 ---
 
-*Intergenerational Mobility in the Fourth Industrial Revolution* (with Thor Berger) [Working paper](https://osf.io/preprints/socarxiv/zcax3/)
+*Intergenerational Mobility in the Fourth Industrial Revolution* (with Thor Berger) 
+[Working paper](https://osf.io/preprints/socarxiv/zcax3/)
 <details>
 <summary>Read more</summary>
 The maturation of industrial society has long been seen as an engine of occupational upgrading and opportunity. Following the rise of the factory, the assembly line, and the office computer, some claim that we are now entering a fourth industrial revolution where autonomous systems are transforming the nature of work. What are the consequences of this transformation for intergenerational income mobility? Examining variation across 722 U.S. labor markets, we find that intergenerational persistence is higher in areas heavily exposed to industrial automation. These effects are rooted in childhood experiences and concentrated among men from disadvantaged homes. Unequal labor relations appear to exacerbate the association, while affordable access to college ameliorates it. The received view of industrial change as an engine of mobility should be revised to consider the institutional context of automation.
