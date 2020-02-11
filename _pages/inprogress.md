@@ -5,17 +5,16 @@ author: "Per Engzell"
 permalink: /inprogress/
 ---
 
+[https://osf.io/preprints/socarxiv/zcax3/](*Intergenerational Mobility in the Fourth Industrial Revolution*) (with Thor Berger)
+<details>
+<summary>Read more</summary>
+The maturation of industrial society has long been seen as an engine of occupational upgrading and opportunity. Following the rise of the factory, the assembly line, and the office computer, some claim that we are now entering a fourth industrial revolution where autonomous systems are transforming the nature of work. What are the consequences of this transformation for intergenerational income mobility? Examining variation across 722 U.S. labor markets, we find that intergenerational persistence is higher in areas heavily exposed to industrial automation. These effects are rooted in childhood experiences and concentrated among men from disadvantaged homes. Unequal labor relations appear to exacerbate the association, while affordable access to college ameliorates it. The received view of industrial change as an engine of mobility should be revised to consider the institutional context of automation.
+</details>
 
 *Intergenerational Mobility in Sweden Before the Welfare State* (with Thor Berger, Björn Eriksson, Jakob Molinder)
 <details>
 <summary>Read more</summary>
-This paper analyzes intergenerational mobility in Sweden prior to the emergence of the welfare state. We use full-count census data to link more than 400,000 sons observed in 1910 to their fathers in 1880. In terms of occupational mobility, Sweden was more mobile than other European countries. Mobility patterns are closer to the Americas with several regions exhibiting similar rates of mobility as the New World economies. We provide suggestive evidence that geographic mobility and urbanisation – rather than structural differences between the Old and New World – account for historical differences in mobility. 
-</details>
-
-*Intergenerational Mobility in the Fourth Industrial Revolution* (with Thor Berger)
-<details>
-<summary>Read more</summary>
-The maturation of industrial society has long been seen as an engine of occupational upgrading and opportunity. Following the rise of the factory, the assembly line, and the office computer, we are now in a fourth industrial revolution where intelligent systems are transforming the nature of work. What are the consequences of this transformation for intergenerational income mobility? Examining variation across 722 U.S. labor markets, we find that intergenerational persistence is higher in areas heavily exposed to automation. These effects are rooted in childhood experiences and concentrated among men from disadvantaged homes. Unequal labour relations appear to exacerbate the association, while affordable access to college ameliorates it. The received view of industrial change as an engine of mobility should be revised to consider the institutional setting that governs the nature of the relationship.
+This paper analyzes intergenerational mobility in Sweden prior to the emergence of the welfare state. We analyse occupational mobility using full-count census data that allow us to link sons observed in 1910 to their fathers in 1880. Results reveal that Sweden was more mobile than other European countries such as Norway or Britain at the time – indeed, several Swedish regions show similar rates of mobility as the New World economies of US and Argentina. We provide suggestive evidence that the relatively high level of mobility is explained by Sweden's exceptionally rapid economic growth and high levels of geographic mobility prior to the outbreak of World War I. Thus, economic fundamentals may be more important than structural differences in explaining historical mobility differences between the Old and New World. 
 </details>
 
 *Divergence of Income Mobility and Perceived Living Standards in the US since 1940* (with Thor Berger)
