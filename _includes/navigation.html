@@ -4,7 +4,7 @@
       <h2 class="nav-title">{{ site.title }}</h2>
     </a>
     <ul>
-      <li><a href="{{ site.baseurl }}">About</a></li>
+      <li><a href="{{ '/' | prepend: site.baseurl }}">About</a></li>
       <li><a href="{{ '/publications' | prepend: site.baseurl }}">Publications</a></li>
       <li><a href="{{ '/inprogress' | prepend: site.baseurl }}">In progress</a></li>
       <li><a href="{{ '/datacode' | prepend: site.baseurl }}">Data & Code</a></li>
