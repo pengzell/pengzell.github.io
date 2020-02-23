@@ -15,10 +15,9 @@ permalink: /publications/
 0. Engzell, P., and Jonsson, J. O. (2015). "Estimating Social and Ethnic Inequality in School Surveys: Biases from Child Misreporting and Parent Nonresponse." [*European Sociological Review*](https://doi.org/10.1093/esr/jcv005).
 {: reversed="reversed"}
 
-Other Publications
+Other Writing
 - Engzell, P., and Tropf, F. (2020). "Nature, Nurture, and Intergenerational Mobility." [*VoxEU*](https://voxeu.org/article/nature-nurture-and-intergenerational-mobility).
 - Engzell, P., and Tropf, F. (2020). "Reducing Social Inequities Unintentionally Heightens Importance Of Genetics". [*MedicalResearch.com*](https://medicalresearch.com/genetic-research/education-reducing-social-inequities-unintentionally-heightens-importance-of-genetics/52857/).
 - Engzell, P., and Tropf, F. (2019). "The Long Arm of the Family". [*Population Europe*](https://population-europe.eu/pop-digest/long-arm-family).
 - Berger, T., and Engzell, P. (2019). "Brave Old World: Immigration, Inequality and Intergenerational Mobility in the US." [*VoxEU*](https://voxeu.org/article/immigration-inequality-and-intergenerational-mobility-us).
 - Berger, T., and Engzell, P. (2019). "Ursprungets sociala mobilitet." [*Ekonomistas*](https://ekonomistas.se/2019/03/18/gastinlagg-ursprungets-sociala-mobilitet/).
-- Engzell, P. (2017). Intergenerational Persistence and Ethnic Disparities in Education. [*Swedish Institute for Social Research Dissertation Series*](http://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1049235&dswid=4839).
