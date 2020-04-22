@@ -12,28 +12,22 @@ permalink: /inprogress/
 The maturation of industrial society has long been seen as an engine of occupational upgrading and opportunity. Following the rise of the factory, the assembly line, and the office computer, some claim that we are now entering a fourth industrial revolution where autonomous systems are transforming the nature of work. What are the consequences of this transformation for intergenerational income mobility? Examining variation across 722 U.S. labor markets, we find that intergenerational persistence is higher in areas heavily exposed to industrial automation. These effects are rooted in childhood experiences and concentrated among men from disadvantaged homes. Unequal labor relations appear to exacerbate the association, while affordable access to college ameliorates it. The received view of industrial change as an engine of mobility should be revised to consider the institutional context of automation.
 </details>
 
+*Objective and Perceived Intergenerational Mobility Since 1940* (with Thor Berger)
+<details>
+<summary>Read more</summary>
+In just a few decades, Americans have seen a drastic decline in upward income mobility. Among baby boomers, 90% earned a higher real income than their parents; in recent cohorts, only half do. At the same time, secular trends raised living standards across a wide range of domains: improved health and lifespans, fading discrimination, cleaner air and water, increased safety from crime, and new digital goods and services. Against this background, we ask whether a growing share of Americans actually perceive that their living standards have declined relative to their parents. In contrast to income mobility, perceived mobility in living standards remains stable and high, a divergence arguably attributable to improvements in quality of life. Social scientists and policy makers would benefit from a wider range of data to track the experience of successive generations.
+</details>
+
 *Intergenerational Mobility in Sweden Before the Welfare State* (with Thor Berger, Björn Eriksson, Jakob Molinder)
 <details>
 <summary>Read more</summary>
 This paper analyzes intergenerational mobility in Sweden prior to the emergence of the welfare state. We analyse occupational mobility using full-count census data that allow us to link sons observed in 1910 to their fathers in 1880. Results reveal that Sweden was more mobile than other European countries such as Norway or Britain at the time – indeed, several Swedish regions show similar rates of mobility as the New World economies of US and Argentina. We provide suggestive evidence that the relatively high level of mobility is explained by Sweden's exceptionally rapid economic growth and high levels of geographic mobility prior to the outbreak of World War I. Thus, economic fundamentals may be more important than structural differences in explaining historical mobility differences between the Old and New World. 
 </details>
 
-*Divergence of Income Mobility and Perceived Living Standards in the US since 1940* (with Thor Berger)
-<details>
-<summary>Read more</summary>
-In just a few decades, Americans have seen a drastic decline in upward income mobility. Among baby boomers, 90% earned a higher real income than their parents; in recent cohorts, only half do. At the same time, secular trends raised living standards across a wide range of domains: improved health and lifespans, fading discrimination, cleaner air and water, increased safety from crime, and new digital goods and services. Against this background, we ask whether a growing share of Americans actually perceive that their living standards have declined relative to their parents. In contrast to income mobility, perceived mobility in living standards remains stable and high, a divergence arguably attributable to improvements in quality of life. Social scientists and policy makers would benefit from a wider range of data to track the experience of successive generations.
-</details>
-
 *How Robust are Intergenerational Income Correlations?* (with Carina Mood)
 <details>
 <summary>Read more</summary>
 Recent work highlights how "researcher degrees of freedom" – undisclosed flexibility in research design – can give rise to varying results. The study of income mobility is no exception, with decisions ranging over income concept, unit of observation, functional form, treatment of outliers, etc. Using Swedish data on the population of children born 1958–1972, we exhaust a model space of several hundred thousands specifications to answer three questions. What is the range of reasonable estimates? Which specification fits data best? How sensitive are estimated trends? Linear correlations fit better than rank correlations, while log-log correlations (and hence, elasticities) fit poorly and behave erratically over time. Even with more robust measures of association, different income definitions follow opposing trends: increasing persistence in family income and women's earnings, flat or decreasing in men's earnings.
-</details>
-
-*Putting the Grandparents to Rest? False Positives in Multigenerational Mobility* (with Carina Mood, Jan O. Jonsson)
-<details>
-<summary>Read more</summary>
-A recent literature studies the role of grandparents in status transmission. We use newly harmonized income tax records on over 700,000 Swedish lineages to establish four empirical facts. First, a model that includes both mothers and fathers and takes a multidimensional view of stratification reduces the residual three-generation association in our population to a trivial size. Second, data on fathers’ cognitive ability shows that even extensive controls for standard socioeconomic variables fail to remove omitted variable bias. Third, the common finding that grandparents compensate poor parental resources can be attributed to greater difficulty of observing parent status accurately at the lower end of the distribution. Fourth, the lower the data quality, and the less detailed the model, the greater is the size of the estimated grandparent coefficient. Future work on multigenerational mobility should pay less attention to the size and significance of this association, which depends heavily on arbitrary sample and specification characteristics, and go on to establish a set of more robust descriptive facts. 
 </details>
 
 *Is Immigrant Optimism Contagious? Spillovers of Immigrant Friends in School* (with Are Skeie Hermansen)
