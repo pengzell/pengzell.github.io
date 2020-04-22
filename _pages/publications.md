@@ -6,6 +6,7 @@ permalink: /publications/
 ---
 
 0. Engzell, P., and Rohrer, J. (2020). "Improving Social Science: Lessons from the Open Science Movement." *PS: Political Science & Politics (forthcoming)*.
+0. Engzell, P., Mood, C., and Jonsson, J. O. (2020). "It's All about the Parents: Inequality Transmission across Three Generations in Sweden." *Sociological Science (forthcoming)*.
 0. Engzell, P., and Tropf, F. (2019). "Heritability of Education Rises with Intergenerational Mobility." [*Proceedings of the National Academy of Sciences*](https://doi.org/10.1073/pnas.1912998116).
 0. Berger, T., and Engzell, P. (2019). "American Geography of Opportunity Reveals European Origins." [*Proceedings of the National Academy of Sciences*](https://doi.org/10.1073/pnas.1810893116).
 0. Engzell, P. (2019). "Aspiration Squeeze: The Struggle of Children to Positively Selected Immigrants." [*Sociology of Education*](https://doi.org/10.1177/0038040718822573).
@@ -16,6 +17,7 @@ permalink: /publications/
 {: reversed="reversed"}
 
 Other Writing
+- Engzell, P., and Tropf, F. (2020). "What Studying Twins Tells Us about Inequality of Educational Opportunity." [*Work in Progress*](http://www.wipsociology.org/2020/03/26/what-studying-twins-tells-us-about-inequality-of-educational-opportunity/).
 - Engzell, P., and Tropf, F. (2020). "Nature, Nurture, and Intergenerational Mobility." [*VoxEU*](https://voxeu.org/article/nature-nurture-and-intergenerational-mobility).
 - Engzell, P., and Tropf, F. (2020). "Reducing Social Inequities Unintentionally Heightens Importance Of Genetics". [*MedicalResearch.com*](https://medicalresearch.com/genetic-research/education-reducing-social-inequities-unintentionally-heightens-importance-of-genetics/52857/).
 - Engzell, P., and Tropf, F. (2019). "The Long Arm of the Family". [*Population Europe*](https://population-europe.eu/pop-digest/long-arm-family).
