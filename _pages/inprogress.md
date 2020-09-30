@@ -12,16 +12,16 @@ permalink: /inprogress/
 The maturation of industrial society has long been seen as an engine of occupational upgrading and opportunity. Following the rise of the factory, the assembly line, and the office computer, some claim that we are now entering a fourth industrial revolution where autonomous systems are transforming the nature of work. What are the consequences of this transformation for intergenerational income mobility? Examining variation across 722 U.S. labor markets, we find that intergenerational persistence is higher in areas heavily exposed to industrial automation. These effects are rooted in childhood experiences and concentrated among men from disadvantaged homes. Unequal labor relations appear to exacerbate the association, while affordable access to college ameliorates it. The received view of industrial change as an engine of mobility should be revised to consider the institutional context of automation.
 </details>
 
-*Objective and Perceived Intergenerational Mobility Since 1940* (with Thor Berger)
-<details>
-<summary>Read more</summary>
-In just a few decades, Americans have seen a drastic decline in upward income mobility. Among baby boomers, 90% earned a higher real income than their parents; in recent cohorts, only half do. At the same time, secular trends raised living standards across a wide range of domains: improved health and lifespans, fading discrimination, cleaner air and water, increased safety from crime, and new digital goods and services. Against this background, we ask whether a growing share of Americans actually perceive that their living standards have declined relative to their parents. In contrast to income mobility, perceived mobility in living standards remains stable and high, a divergence arguably attributable to improvements in quality of life. Social scientists and policy makers would benefit from a wider range of data to track the experience of successive generations.
-</details>
-
 *Intergenerational Mobility in Sweden Before the Welfare State* (with Thor Berger, Björn Eriksson, Jakob Molinder)
 <details>
 <summary>Read more</summary>
-This paper analyzes intergenerational mobility in Sweden prior to the emergence of the welfare state. We analyse occupational mobility using full-count census data that allow us to link sons observed in 1910 to their fathers in 1880. Results reveal that Sweden was more mobile than other European countries such as Norway or Britain at the time – indeed, several Swedish regions show similar rates of mobility as the New World economies of US and Argentina. We provide suggestive evidence that the relatively high level of mobility is explained by Sweden's exceptionally rapid economic growth and high levels of geographic mobility prior to the outbreak of World War I. Thus, economic fundamentals may be more important than structural differences in explaining historical mobility differences between the Old and New World. 
+We use historical census data to show that Sweden exhibited high levels of intergenerational occupational mobility several decades before the rise of the welfare state. Mobility rates were higher than in other 19th- and 20th-century European countries, closer to those observed in the highly mobile 19th-century United States. We leverage mobility variation across Swedish municipalities to shed light on potential determinants: economic growth and migration are positively correlated with mobility, consistent with the patterns observed across countries.
+</details>
+
+*Firming Up Mobility: The Role of Firms in Intergenerational Earnings Persistence* (with Nathan Wilmers)
+<details>
+<summary>Read more</summary>
+ Social scientists have long sought to understand how economic advantage is transmitted from parent to child. Most research on intergenerational persistence of earnings has focused on the transmission of individual traits like human capital. Yet earnings are a function not only of individual worker characteristics, but also of which workers successfully match with high-paying firms. We use Swedish administrative data to decompose the intergenerational earnings correlation into fixed effects attributable to firms and individual workers. Our analysis reveals that a large part of the intergenerational resemblance in earnings is explained by parents in high-earning firms passing on a similar labor market advantage to their children. Unlike the traditional earnings correlation, this firm-based earnings gap opens up at an early age and is largely constant throughout children's careers.
 </details>
 
 *How Robust are Intergenerational Income Correlations?* (with Carina Mood)
@@ -33,5 +33,16 @@ Recent work highlights how "researcher degrees of freedom" – undisclosed flexi
 *Is Immigrant Optimism Contagious? Spillovers of Immigrant Friends in School* (with Are Skeie Hermansen)
 <details>
 <summary>Read more</summary>
+Why do inequalities in learning persist, even in relatively egalitarian school systems? We examine within-school ability sorting with classroom data on friendship networks in 480 European secondary schools. We contrast comprehensive (England, Sweden) and tracked systems (Germany, Netherlands) and ask how they shape sorting at the level of a) schools, b) classrooms, and c) friendships. Between-school variance in test scores is lower in comprehensive systems. However, this is counterbalanced by greater sorting within schools: between classrooms and, especially, friendship networks. Still, comprehensive schools create more equal environments for two reasons. First, the difference in sorting between schools is larger than that in sorting within schools. Second, the latter is less related to social and ethnic background. These findings help explain both why comprehensive schools equalize outcomes, and how substantial inequality can nevertheless remain. </details>
+
+*One School, Many Worlds: Within-School Sorting in Comprehensive and Tracked Systems* (with Isabel Raabe)
+<details>
+<summary>Read more</summary>
 Is academic achievement affected by the presence of immigrant peers? Previous work mostly suggests no but, we argue, has been misguided on two accounts. First, it focused on aggregate social settings such as schools, while social interactions unfold in more intimate settings. Secondly, it assumed that immigrant peers would harm performance, ignoring their often high aspirations. We use a combination of administrative and sociometric network data from Sweden, and develop methods that let us estimate causal effects of immigrant peers at the level of (i) schools, (ii) classrooms, and (iii) friendship networks. We find little influence at the aggregate level but a strong and positive impact of immigrant peers in the same classroom and of immigrant friends. Existing studies may have mistaken both the sign and the magnitude of immigrant influence.
+</details>
+
+*Learning Inequality During the COVID-19 Pandemic* (with Arun Frey, Mark Verhagen)
+<details>
+<summary>Read more</summary>
+School closures during the COVID-19 pandemic have led to significant losses in instruction time for students, and concerns about increased inequality in learning. So far, data to study this question have been limited. In this paper, we evaluate the effect of the pandemic on learning progress in the Netherlands, where schools were forced to close for 8 weeks. We examine student progress at the end of primary school and leverage data from several years prior to the pandemic to implement a differences-in-differences design. Our results reveal a significant drop in standardized test scores, of about 2 percentile points. These losses are up to twice as large among students from low-educated homes. We find little evidence that the effect of school closures differs by student gender or prior performance. These results confirm worries about the uneven toll of the COVID-19 pandemic on children and families.
 </details>
