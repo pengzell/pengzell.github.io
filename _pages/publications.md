@@ -6,7 +6,9 @@ permalink: /publications/
 ---
 
 0. Engzell, P., and Rohrer, J. (2020). "Improving Social Science: Lessons from the Open Science Movement." *PS: Political Science & Politics (forthcoming)*.
-0. Engzell, P., Mood, C., and Jonsson, J. O. (2020). "It's All about the Parents: Inequality Transmission across Three Generations in Sweden." *Sociological Science (forthcoming)*.
+0. Engzell, P., and Tropf, F. (2019). "Heritability of Education Remains Associated with Social Mobility." *Proceedings of the National Academy of Sciences (forthcoming)*.
+0. Berger, T., and Engzell, P. (2020). "Trends and Disparities in Subjective Upward Mobility since 1940." [*Socius*](https://doi.org/10.1177/2378023120951139).
+0. Engzell, P., Mood, C., and Jonsson, J. O. (2020). "It's All about the Parents: Inequality Transmission across Three Generations in Sweden." [*Sociological Science*](https://doi.org/10.15195/v7.a10).
 0. Engzell, P., and Tropf, F. (2019). "Heritability of Education Rises with Intergenerational Mobility." [*Proceedings of the National Academy of Sciences*](https://doi.org/10.1073/pnas.1912998116).
 0. Berger, T., and Engzell, P. (2019). "American Geography of Opportunity Reveals European Origins." [*Proceedings of the National Academy of Sciences*](https://doi.org/10.1073/pnas.1810893116).
 0. Engzell, P. (2019). "Aspiration Squeeze: The Struggle of Children to Positively Selected Immigrants." [*Sociology of Education*](https://doi.org/10.1177/0038040718822573).
