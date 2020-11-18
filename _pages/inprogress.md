@@ -12,12 +12,6 @@ permalink: /inprogress/
 Suspension of face-to-face instruction in schools during the COVID-19 pandemic has led to concerns about consequences for student learning. So far, data to study this question have been limited. In this paper, we evaluate the effect of school closures on primary school students in the Netherlands, where schools remained closed for 8 weeks. We examine nationally standardized test scores before and after lockdown, and compare progress during this period to the same period in previous years. Our results reveal a significant loss of learning progress of about 3 percentile points or 0.08 standard deviations. This loss is 35-40% larger among students from low-educated homes, confirming worries about the uneven toll of the pandemic on children and families. Our results are on the same order of magnitude as best-case scenarios projected by the European Commission and the World Bank, and suggest losses many times larger in countries less prepared for remote learning.
 </details>
 
-*How Robust are Intergenerational Income Correlations?* (with Carina Mood)
-<details>
-<summary>Read more</summary>
-Recent work highlights how "researcher degrees of freedom" – undisclosed flexibility in research design – can give rise to varying results. The study of income mobility is no exception, with decisions ranging over income concept, unit of observation, functional form, treatment of outliers, etc. Using Swedish data on the population of children born 1958–1972, we exhaust a model space of several hundred thousands specifications to answer three questions. What is the range of reasonable estimates? Which specification fits data best? How sensitive are estimated trends? Linear correlations fit better than rank correlations, while log-log correlations (and hence, elasticities) fit poorly and behave erratically over time. Even with more robust measures of association, different income definitions follow opposing trends: increasing persistence in family income and women's earnings, flat or decreasing in men's earnings.
-</details>
-
 *Intergenerational Mobility in the Fourth Industrial Revolution* (with Thor Berger) 
 | [working paper](https://osf.io/preprints/socarxiv/zcax3/)
 <details>
@@ -29,6 +23,12 @@ The maturation of industrial society has long been seen as an engine of occupati
 <details>
 <summary>Read more</summary>
 We use historical census data to show that Sweden exhibited high levels of intergenerational occupational mobility several decades before the rise of the welfare state. Mobility rates were higher than in other 19th- and 20th-century European countries, closer to those observed in the highly mobile 19th-century United States. We leverage mobility variation across Swedish municipalities to shed light on potential determinants: economic growth and migration are positively correlated with mobility, consistent with the patterns observed across countries.
+</details>
+
+*How Robust are Intergenerational Income Correlations?* (with Carina Mood)
+<details>
+<summary>Read more</summary>
+Recent work highlights how "researcher degrees of freedom" – undisclosed flexibility in research design – can give rise to varying results. The study of income mobility is no exception, with decisions ranging over income concept, unit of observation, functional form, treatment of outliers, etc. Using Swedish data on the population of children born 1960–1976, we exhaust a model space of several hundred thousands specifications to answer three questions. What is the range of reasonable estimates? Which specification fits data best? How sensitive are estimated trends? Linear correlations fit better than rank correlations, while log-log correlations (and hence, elasticities) fit poorly and behave erratically over time. Even with more robust measures of association, different income definitions follow opposing trends: increasing persistence in family income and women's earnings, flat or decreasing in men's earnings.
 </details>
 
 *Is Immigrant Optimism Contagious? Spillovers of Immigrant Friends in School* (with Are Skeie Hermansen)
