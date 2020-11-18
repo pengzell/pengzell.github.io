@@ -20,27 +20,30 @@ The maturation of industrial society has long been seen as an engine of occupati
 </details>
 
 *Intergenerational Mobility in Sweden Before the Welfare State* (with Thor Berger, Björn Eriksson, Jakob Molinder)
+[draft available on request]
 <details>
 <summary>Read more</summary>
 We use historical census data to show that Sweden exhibited high levels of intergenerational occupational mobility several decades before the rise of the welfare state. Mobility rates were higher than in other 19th- and 20th-century European countries, closer to those observed in the highly mobile 19th-century United States. We leverage mobility variation across Swedish municipalities to shed light on potential determinants: economic growth and migration are positively correlated with mobility, consistent with the patterns observed across countries.
 </details>
 
-*How Robust are Intergenerational Income Correlations?* (with Carina Mood)
-<details>
-<summary>Read more</summary>
-Recent work highlights how "researcher degrees of freedom" – undisclosed flexibility in research design – can give rise to varying results. The study of income mobility is no exception, with decisions ranging over income concept, unit of observation, functional form, treatment of outliers, etc. Using Swedish data on the population of children born 1960–1976, we exhaust a model space of several hundred thousands specifications to answer three questions. What is the range of reasonable estimates? Which specification fits data best? How sensitive are estimated trends? Linear correlations fit better than rank correlations, while log-log correlations (and hence, elasticities) fit poorly and behave erratically over time. Even with more robust measures of association, different income definitions follow opposing trends: increasing persistence in family income and women's earnings, flat or decreasing in men's earnings.
-</details>
-
 *Is Immigrant Optimism Contagious? Spillovers of Immigrant Friends in School* (with Are Skeie Hermansen)
+[draft available on request]
 <details>
 <summary>Read more</summary>
 Is academic achievement affected by the presence of immigrant peers? Previous work mostly suggests no but, we argue, has been misguided on two accounts. First, it focused on aggregate social settings such as schools, while social interactions unfold in more intimate settings. Secondly, it assumed that immigrant peers would harm performance, ignoring their often high aspirations. We use a combination of administrative and sociometric network data from Sweden, and develop methods that let us estimate causal effects of immigrant peers at the level of (i) schools, (ii) classrooms, and (iii) friendship networks. We find little influence at the aggregate level but a strong and positive impact of immigrant peers in the same classroom and of immigrant friends. Existing studies may have mistaken both the sign and the magnitude of immigrant influence.
 </details>
 
 *One School, Many Worlds: Within-School Sorting in Comprehensive and Tracked Systems* (with Isabel Raabe)
+[draft available on request]
 <details>
 <summary>Read more</summary>
 Why do inequalities in learning persist, even in relatively egalitarian school systems? We examine within-school ability sorting with classroom data on friendship networks in 480 European secondary schools. We contrast comprehensive (England, Sweden) and tracked systems (Germany, Netherlands) and ask how they shape sorting at the level of a) schools, b) classrooms, and c) friendships. Between-school variance in test scores is lower in comprehensive systems. However, this is counterbalanced by greater sorting within schools: between classrooms and, especially, friendship networks. Still, comprehensive schools create more equal environments for two reasons. First, the difference in sorting between schools is larger than that in sorting within schools. Second, the latter is less related to social and ethnic background. These findings help explain both why comprehensive schools equalize outcomes, and how substantial inequality can nevertheless remain. </details>
+
+*How Robust are Intergenerational Income Correlations?* (with Carina Mood)
+<details>
+<summary>Read more</summary>
+Recent work highlights how "researcher degrees of freedom" – undisclosed flexibility in research design – can give rise to varying results. The study of income mobility is no exception, with decisions ranging over income concept, unit of observation, functional form, treatment of outliers, etc. Using Swedish data on the population of children born 1960–1976, we exhaust a model space of several hundred thousands specifications to answer three questions. What is the range of reasonable estimates? Which specification fits data best? How sensitive are estimated trends? Linear correlations fit better than rank correlations, while log-log correlations (and hence, elasticities) fit poorly and behave erratically over time. Even with more robust measures of association, different income definitions follow opposing trends: increasing persistence in family income and women's earnings, flat or decreasing in men's earnings.
+</details>
 
 *Firming Up Mobility: The Role of Firms in Intergenerational Earnings Persistence* (with Nathan Wilmers)
 <details>
