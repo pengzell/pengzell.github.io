@@ -23,7 +23,7 @@ The maturation of industrial society has long been seen as an engine of occupati
 | draft on request
 <details>
 <summary>Read more</summary>
-We use historical census data to show that Sweden exhibited high levels of intergenerational occupational mobility several decades before the rise of the welfare state. Mobility rates were higher than in other 19th- and 20th-century European countries, closer to those observed in the highly mobile 19th-century United States. We leverage mobility variation across Swedish municipalities to shed light on potential determinants: economic growth and migration are positively correlated with mobility, consistent with the patterns observed across countries.
+This paper provides the first nationally representative estimates of intergenerational occupational mobility in Sweden prior to rise of the welfare state. We create linked samples of fathers and sons using 19th- and 20th-century population census data. Sweden was more mobile than other European countries prior to the outbreak of World War I and mobility rates exceeded those observed in Europe and the United States in the post-World War II era. Comparing historical mobility patterns, we show that Sweden's pattern of mobility was more similar to the Americas, demonstrating the absence of a clear divide in mobility between the Old and New World. We provide suggestive evidence that Sweden's high levels of mobility is explained by its exceptionally rapid economic growth and high rates of geographic mobility at the time. 
 </details>
 
 *Is Immigrant Optimism Contagious? Spillovers of Immigrant Friends in School* (with Are Skeie Hermansen)
