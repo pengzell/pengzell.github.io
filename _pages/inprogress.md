@@ -6,7 +6,7 @@ permalink: /inprogress/
 ---
 
 *Learning Inequality During the COVID-19 Pandemic* (with Arun Frey, Mark Verhagen)
-| [working paper](https://osf.io/preprints/socarxiv/ve4z7/) | [preregistration](https://osf.io/xnh9c/) | [summary 2](https://voxeu.org/article/collateral-damage-children-s-education-during-lockdown) | [summary 2](https://population-europe.eu/policy-insights/how-do-school-closures-affect-student-learning-its-worse-you-think) | Press release in 
+| [working paper](https://osf.io/preprints/socarxiv/ve4z7/) | [preregistration](https://osf.io/xnh9c/) | [summary 2](https://voxeu.org/article/collateral-damage-children-s-education-during-lockdown) | [summary 2](https://population-europe.eu/policy-insights/how-do-school-closures-affect-student-learning-its-worse-you-think) | press release: 
 [English](https://www.demographicscience.ox.ac.uk/post/children-learned-little-or-nothing-during-school-closures-despite-online-learning), [German](https://www.demographicscience.ox.ac.uk/post/schulkinder-haben-w%C3%A4hrend-der-schulschlie%C3%9Fungen-trotz-online-unterricht-wenig-oder-nichts-gelernt), [Dutch](https://www.demographicscience.ox.ac.uk/post/leerlingen-lopen-grote-leerachterstanden-op-tijdens-lockdown-aldus-nieuw-onderzoek-van-onderzoekers) 
 <details>
 <summary>Read more</summary>
