@@ -5,7 +5,7 @@ author: "Per Engzell"
 permalink: /inprogress/
 ---
 
-*Learning Inequality During the COVID-19 Pandemic* (with Arun Frey, Mark Verhagen)
+*Learning Loss Due to School Closures During the COVID-19 Pandemic* (with Arun Frey, Mark Verhagen)
 | [working paper](https://osf.io/preprints/socarxiv/ve4z7/) | [preregistration](https://osf.io/xnh9c/) | [summary 1](https://voxeu.org/article/collateral-damage-children-s-education-during-lockdown) | [summary 2](https://population-europe.eu/policy-insights/how-do-school-closures-affect-student-learning-its-worse-you-think) | [press release](https://www.demographicscience.ox.ac.uk/post/children-learned-little-or-nothing-during-school-closures-despite-online-learning)
 <details>
 <summary>Read more</summary>
