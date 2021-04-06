@@ -5,7 +5,7 @@ author: "Per Engzell"
 permalink: /publications/
 ---
 
-0. Engzell, P., Frey, A., & Verhagen, M. D. (2021). "Learning Loss Due to School Closures During the COVID-19 Pandemic" *Proceedings of the National Academy of Sciences*, forthcoming.
+0. Engzell, P., Frey, A., and Verhagen, M. D. (2021). "Learning Loss Due to School Closures During the COVID-19 Pandemic" *Proceedings of the National Academy of Sciences*, forthcoming.
 0. Engzell, P., and Rohrer, J. (2021). "Improving Social Science: Lessons from the Open Science Movement." [*PS: Political Science & Politics*](https://doi.org/10.1017/S1049096520000967).
 0. Engzell, P., and Tropf, F. (2020). "Heritability of Education Remains Associated with Social Mobility." [*Proceedings of the National Academy of Sciences*](https://doi.org/10.1073/pnas.2017308117).
 0. Berger, T., and Engzell, P. (2020). "Trends and Disparities in Subjective Upward Mobility since 1940." [*Socius*](https://doi.org/10.1177/2378023120951139).
