@@ -12,4 +12,4 @@ His research focuses on intergenerational mobility and how culture, technology, 
 
 Engzell's work has been featured in the *New York Times*, *Financial Times*, *The Economist*, and podcasts such as *The Weeds* and *PNAS Science Sessions*. His recent research on school closures during COVID-19 has had a documented impact on policy in several countries and invited hearings at the European Commission, the OECD, and the World Bank. 
 
-Get in touch via [Twitter](https://twitter.com/pengzell) or send me e-mail at [per.engzell@nuffield.ox.ac.uk](mailto:per.engzell@nuffield.ox.ac.uk)
+Get in touch via [Twitter](https://twitter.com/pengzell) or send an e-mail at [per.engzell@nuffield.ox.ac.uk](mailto:per.engzell@nuffield.ox.ac.uk)
