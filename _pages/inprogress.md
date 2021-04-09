@@ -17,13 +17,6 @@ permalink: /inprogress/
 Recent work highlights how "researcher degrees of freedom" – undisclosed flexibility in research design – can give rise to varying results. The study of income mobility is no exception, with decisions ranging over income concept, unit of observation, functional form, treatment of outliers, etc. Using Swedish data on the population of children born 1960–1976, we exhaust a model space of several hundred thousands specifications to answer three questions. What is the range of reasonable estimates? Which specification fits data best? How sensitive are estimated trends? Linear correlations fit better than rank correlations, while log-log correlations (and hence, elasticities) fit poorly and behave erratically over time. Even with more robust measures of association, different income definitions follow opposing trends: increasing persistence in family income and women's earnings, flat or decreasing in men's earnings.
 </details>
 
-*Intergenerational Mobility in the Fourth Industrial Revolution* (with Thor Berger) 
-| [working paper](https://osf.io/preprints/socarxiv/zcax3/)
-<details>
-<summary>Read more</summary>
-The maturation of industrial society has long been seen as an engine of occupational upgrading and opportunity. Following the rise of the factory, the assembly line, and the office computer, some claim that we are now entering a fourth industrial revolution where autonomous systems are transforming the nature of work. What are the consequences of this transformation for intergenerational income mobility? Examining variation across 722 U.S. labor markets, we find that intergenerational persistence is higher in areas heavily exposed to industrial automation. These effects are rooted in childhood experiences and concentrated among men from disadvantaged homes. Unequal labor relations appear to exacerbate the association, while affordable access to college ameliorates it. The received view of industrial change as an engine of mobility should be revised to consider the institutional context of automation.
-</details>
-
 *Intergenerational Mobility in Sweden Before the Welfare State* (with Thor Berger, Björn Eriksson, Jakob Molinder)
 | draft on request
 <details>
@@ -44,3 +37,9 @@ Is academic achievement affected by the presence of immigrant peers? Previous wo
 <summary>Read more</summary>
 Why do inequalities in learning persist, even in relatively egalitarian school systems? We examine within-school ability sorting with classroom data on friendship networks in 480 European secondary schools. We contrast comprehensive (England, Sweden) and tracked systems (Germany, Netherlands) and ask how they shape sorting at the level of a) schools, b) classrooms, and c) friendships. Between-school variance in test scores is lower in comprehensive systems. However, this is counterbalanced by greater sorting within schools: between classrooms and, especially, friendship networks. Still, comprehensive schools create more equal environments for two reasons. First, the difference in sorting between schools is larger than that in sorting within schools. Second, the latter is less related to social and ethnic background. These findings help explain both why comprehensive schools equalize outcomes, and how substantial inequality can nevertheless remain. </details>
 
+*Intergenerational Mobility in the Fourth Industrial Revolution* (with Thor Berger) 
+| [working paper](https://osf.io/preprints/socarxiv/zcax3/)
+<details>
+<summary>Read more</summary>
+The maturation of industrial society has long been seen as an engine of occupational upgrading and opportunity. Following the rise of the factory, the assembly line, and the office computer, some claim that we are now entering a fourth industrial revolution where autonomous systems are transforming the nature of work. What are the consequences of this transformation for intergenerational income mobility? Examining variation across 722 U.S. labor markets, we find that intergenerational persistence is higher in areas heavily exposed to industrial automation. These effects are rooted in childhood experiences and concentrated among men from disadvantaged homes. Unequal labor relations appear to exacerbate the association, while affordable access to college ameliorates it. The received view of industrial change as an engine of mobility should be revised to consider the institutional context of automation.
+</details>
