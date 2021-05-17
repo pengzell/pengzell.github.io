@@ -21,7 +21,7 @@ permalink: /publications/
 
 Other Writing
 - Engzell, P., Frey, A., and Verhagen, M.D. (2020). "The Collateral Damage to Children’s Education During Lockdown." [*VoxEU*](https://voxeu.org/article/collateral-damage-children-s-education-during-lockdown).
-- Engzell, P., Frey, A., and Verhagen, M.D. (2020). "How Do School Closures Affect Student Learning? It’s Worse Than You Think." [*Population Europe*](https://population-europe.eu/policy-insights/how-do-school-closures-affect-student-learning-its-worse-you-think).
+- Engzell, P., Frey, A., and Verhagen, M.D. (2020). "How Do School Closures Affect Student Learning? It’s Worse Than You Think." [*Population Europe*](https://population-europe.eu/research/policy-insights/how-do-school-closures-affect-student-learning-its-worse-you-think).
 - Engzell, P., and Tropf, F. (2020). "What Studying Twins Tells Us about Inequality of Educational Opportunity." [*Work in Progress*](http://www.wipsociology.org/2020/03/26/what-studying-twins-tells-us-about-inequality-of-educational-opportunity/).
 - Engzell, P., and Tropf, F. (2020). "Nature, Nurture, and Intergenerational Mobility." [*VoxEU*](https://voxeu.org/article/nature-nurture-and-intergenerational-mobility).
 - Engzell, P., and Tropf, F. (2020). "Reducing Social Inequities Unintentionally Heightens Importance Of Genetics". [*MedicalResearch.com*](https://medicalresearch.com/genetic-research/education-reducing-social-inequities-unintentionally-heightens-importance-of-genetics/52857/).
