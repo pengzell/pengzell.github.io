@@ -6,7 +6,7 @@ permalink: /datacode/
 ---
 
 *Learning Loss Due to School Closures During the COVID-19 Pandemic* 
-| [published](https://doi.org/10.1073/pnas.2022376118) | [preprint](https://osf.io/preprints/socarxiv/ve4z7/) | [supplementary](https://www.pnas.org/content/pnas/suppl/2021/04/07/2022376118.DCSupplemental/pnas.2022376118.sapp.pdf) | [preregistration](https://osf.io/qtndg/) | [code](https://github.com/MarkDVerhagen/Learning_Loss/)
+| [published](https://doi.org/10.1073/pnas.2022376118) | [preprint](https://osf.io/preprints/socarxiv/ve4z7/) | [supplementary](https://www.pnas.org/content/pnas/suppl/2021/04/07/2022376118.DCSupplemental/pnas.2022376118.sapp.pdf) | [preregistration](https://osf.io/qtndg/) | [code](https://github.com/MarkDVerhagen/Learning_Loss_COVID-19)
 
 *Heritability of Education Rises with Intergenerational Mobility* 
 | [published](https://doi.org/10.1073/pnas.1912998116) | [preprint](https://osf.io/preprints/socarxiv/yeq68/) | [supplementary](https://osf.io/r9kp2/) | [replication](https://osf.io/c549j/)
