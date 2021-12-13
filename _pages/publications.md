@@ -5,6 +5,7 @@ author: "Per Engzell"
 permalink: /publications/
 ---
 
+0. Berger, T., and Engzell, P. (2022). "Industrial Automation and Intergenerational Income Mobility in the United States." *Social Science Research*, forthcoming. 
 0. Engzell, P., Frey, A., and Verhagen, M. D. (2021). "Learning Loss Due to School Closures During the COVID-19 Pandemic." [*Proceedings of the National Academy of Sciences*](https://doi.org/10.1073/pnas.2022376118).
 0. Engzell, P., and Rohrer, J. (2021). "Improving Social Science: Lessons from the Open Science Movement." [*PS: Political Science & Politics*](https://doi.org/10.1017/S1049096520000967).
 0. Engzell, P., and Tropf, F. (2020). "Heritability of Education Remains Associated with Social Mobility." [*Proceedings of the National Academy of Sciences*](https://doi.org/10.1073/pnas.2017308117).
