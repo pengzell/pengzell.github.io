@@ -17,13 +17,6 @@ permalink: /inprogress/
 Recent work highlights how "researcher degrees of freedom" – undisclosed flexibility in research design – can give rise to varying results. The study of income mobility is no exception, with decisions ranging over income concept, unit of observation, functional form, treatment of outliers, etc. Using Swedish data on the population of children born 1960–1976, we exhaust a model space of several hundred thousands specifications to answer three questions. What is the range of reasonable estimates? Which specification fits data best? How sensitive are estimated trends? Linear correlations fit better than rank correlations, while log-log correlations (and hence, elasticities) fit poorly and behave erratically over time. Even with more robust measures of association, different income definitions follow opposing trends: increasing persistence in family income and women's earnings, flat or decreasing in men's earnings.
 </details>
 
-*Intergenerational Mobility in Sweden Before the Welfare State* (with Thor Berger, Björn Eriksson, Jakob Molinder)
-| draft on request
-<details>
-<summary>Read more</summary>
-This paper provides the first nationally representative estimates of intergenerational occupational mobility in Sweden prior to rise of the welfare state. We create linked samples of fathers and sons using 19th- and 20th-century population census data. Sweden was more mobile than other European countries prior to the outbreak of World War I and mobility rates exceeded those observed in Europe and the United States in the post-World War II era. Comparing historical mobility patterns, we show that Sweden's pattern of mobility was more similar to the Americas, demonstrating the absence of a clear divide in mobility between the Old and New World. Leveraging geographic variation within Sweden, we provide suggestive evidence that its high levels of mobility is explained by exceptionally rapid economic growth and high cross-regional mobility at the time. 
-</details>
-
 *Is Immigrant Optimism Contagious? Spillovers of Immigrant Friends in School* (with Are Skeie Hermansen)
 | draft on request
 <details>
