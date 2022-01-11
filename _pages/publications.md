@@ -10,9 +10,9 @@ permalink: /publications/
 3. Engzell, P., Frey, A., and Verhagen, M. D. (2021). "Learning Loss Due to School Closures During the COVID-19 Pandemic." [*Proceedings of the National Academy of Sciences*](https://doi.org/10.1073/pnas.2022376118).
 4. Engzell, P., and Rohrer, J. (2021). "Improving Social Science: Lessons from the Open Science Movement." [*PS: Political Science & Politics*](https://doi.org/10.1017/S1049096520000967).
 5. Engzell, P. (2021). "What Do Books in the Home Proxy For? A Cautionary Tale." [*Sociological Methods & Research*](https://doi.org/10.1177/0049124119826143).
-6. Engzell, P., and Tropf, F. (2020). "Heritability of Education Remains Associated with Social Mobility." [*Proceedings of the National Academy of Sciences*](https://doi.org/10.1073/pnas.2017308117).
+6. Engzell, P., Mood, C., and Jonsson, J. O. (2020). "It's All about the Parents: Inequality Transmission across Three Generations in Sweden." [*Sociological Science*](https://doi.org/10.15195/v7.a10).
 7. Berger, T., and Engzell, P. (2020). "Trends and Disparities in Subjective Upward Mobility since 1940." [*Socius*](https://doi.org/10.1177/2378023120951139).
-8. Engzell, P., Mood, C., and Jonsson, J. O. (2020). "It's All about the Parents: Inequality Transmission across Three Generations in Sweden." [*Sociological Science*](https://doi.org/10.15195/v7.a10).
+8. Engzell, P., and Tropf, F. (2020). "Heritability of Education Remains Associated with Social Mobility." [*Proceedings of the National Academy of Sciences*](https://doi.org/10.1073/pnas.2017308117).
 9. Engzell, P., and Tropf, F. (2019). "Heritability of Education Rises with Intergenerational Mobility." [*Proceedings of the National Academy of Sciences*](https://doi.org/10.1073/pnas.1912998116).
 10. Berger, T., and Engzell, P. (2019). "American Geography of Opportunity Reveals European Origins." [*Proceedings of the National Academy of Sciences*](https://doi.org/10.1073/pnas.1810893116).
 11. Engzell, P. (2019). "Aspiration Squeeze: The Struggle of Children to Positively Selected Immigrants." [*Sociology of Education*](https://doi.org/10.1177/0038040718822573).
