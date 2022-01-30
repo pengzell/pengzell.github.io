@@ -5,8 +5,8 @@ author: "Per Engzell"
 permalink: /publications/
 ---
 
-1. Berger, T., and Engzell, P. (2022). "Industrial Automation and Intergenerational Income Mobility in the United States." *Social Science Research*, forthcoming. 
-2. Berger, T., Engzell, P., Eriksson, B., and Molinder, J. (2022). "Social Mobility in Sweden Before the Welfare State." *Journal of Economic History*, forthcoming.
+1. Berger, T., Engzell, P., Eriksson, B., and Molinder, J. (2022). "Social Mobility in Sweden Before the Welfare State." *Journal of Economic History*, forthcoming.
+2. Berger, T., and Engzell, P. (2022). "Industrial Automation and Intergenerational Income Mobility in the United States." [*Social Science Research*](https://doi.org/10.1016/j.ssresearch.2021.102686). 
 3. Engzell, P., Frey, A., and Verhagen, M. D. (2021). "Learning Loss Due to School Closures During the COVID-19 Pandemic." [*Proceedings of the National Academy of Sciences*](https://doi.org/10.1073/pnas.2022376118).
 4. Engzell, P., and Rohrer, J. (2021). "Improving Social Science: Lessons from the Open Science Movement." [*PS: Political Science & Politics*](https://doi.org/10.1017/S1049096520000967).
 5. Engzell, P. (2021). "What Do Books in the Home Proxy For? A Cautionary Tale." [*Sociological Methods & Research*](https://doi.org/10.1177/0049124119826143).
