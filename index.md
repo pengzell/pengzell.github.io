@@ -10,4 +10,4 @@ I am Associate Professor of Sociology at [UCL Social Research Institute](https:/
  
 My research has been featured in the *New York Times*, *Washington Post*, *Financial Times*, *The Economist*, and podcasts such as *The Weeds* and *PNAS Science Sessions*. Recent work I did on school closures during COVID-19 had a documented impact on policy in several countries, invited talks at the European Commission, the OECD, and the World Bank, and was awarded with the National Academy of Sciences [Cozzarelli Prize](https://www.youtube.com/watch?v=Yhuv1yJrdC4).
 
-Get in touch via [Twitter](https://twitter.com/pengzell) or send an e-mail at: [per.engzell@nuffield.ox.ac.uk](mailto:per.engzell@nuffield.ox.ac.uk)
+Get in touch via [Twitter](https://twitter.com/pengzell) or send an e-mail at: [p.engzell@ucl.ac.uk](mailto:p.engzell@ucl.ac.uk)
