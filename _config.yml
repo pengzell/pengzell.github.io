@@ -1,7 +1,7 @@
 # Site settings
 title:          Per Engzell
-description:    "Prize Research Fellow in Sociology"
-url:            "https://pengzell.github.io"
+description:    "Associate Professor of Sociology"
+url:            "https://perengzell.com/"
 
 # Google Analytics
 google_analytics: UA—XXXXXXXX-X
@@ -9,8 +9,8 @@ google_analytics: UA—XXXXXXXX-X
 # Author
 author:
   name:         Per Engzell
-  url:          https://pengzell.github.io
-  email:        per.engzell@nuffield.ox.ac.uk
+  url:          https://perengzell.com/
+  email:        p.engzell@ucl.ac.uk
 
 # Build settings
 markdown:       kramdown
