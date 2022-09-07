@@ -22,6 +22,7 @@ permalink: /publications/
 {: reversed="reversed"}
 
 Other Writing
+- Engzell, P., Betthäuser, B., and Bach-Mortensen, A.M. (2022). "What Have Two Years of Interrupted Schooling Taught Us About Learning?" [*Economics Observatory*](https://www.economicsobservatory.com/what-have-two-years-of-interrupted-schooling-taught-us-about-learning).
 - Engzell, P., Frey, A., and Verhagen, M.D. (2020). "The Collateral Damage to Children’s Education During Lockdown." [*VoxEU*](https://voxeu.org/article/collateral-damage-children-s-education-during-lockdown).
 - Engzell, P., Frey, A., and Verhagen, M.D. (2020). "How Do School Closures Affect Student Learning? It’s Worse Than You Think." [*Population Europe*](https://population-europe.eu/research/policy-insights/how-do-school-closures-affect-student-learning-its-worse-you-think).
 - Engzell, P., and Tropf, F. (2020). "What Studying Twins Tells Us about Inequality of Educational Opportunity." [*Work in Progress*](http://www.wipsociology.org/2020/03/26/what-studying-twins-tells-us-about-inequality-of-educational-opportunity/).
