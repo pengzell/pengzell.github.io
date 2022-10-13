@@ -5,7 +5,7 @@ author: "Per Engzell"
 permalink: /publications/
 ---
 
-1. Betthäuser, B. Bach-Mortensen, A. M., and Engzell, P. (2022). "A Systematic Review and Meta-analysis of the Impact of the COVID-19 Pandemic on Learning." *Nature Human Behaviour*, forthcoming.
+1. Betthäuser, B., Bach-Mortensen, A. M., and Engzell, P. (2022). "A Systematic Review and Meta-analysis of the Impact of the COVID-19 Pandemic on Learning." *Nature Human Behaviour*, forthcoming.
 2. Berger, T., Engzell, P., Eriksson, B., and Molinder, J. (2022). "Social Mobility in Sweden Before the Welfare State." *Journal of Economic History*, forthcoming.
 3. Berger, T., and Engzell, P. (2022). "Industrial Automation and Intergenerational Income Mobility in the United States." [*Social Science Research*](https://doi.org/10.1016/j.ssresearch.2021.102686). 
 4. Engzell, P., Frey, A., and Verhagen, M. D. (2021). "Learning Loss Due to School Closures During the COVID-19 Pandemic." [*Proceedings of the National Academy of Sciences*](https://doi.org/10.1073/pnas.2022376118).
