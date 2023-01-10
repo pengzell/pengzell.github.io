@@ -5,9 +5,9 @@ author: "Per Engzell"
 permalink: /publications/
 ---
 
-1. Engzell, P. (2022). "A Universe of Uncertainty Hiding in Plain Sight." *Proceedings of the National Academy of Sciences*, forthcoming.
+1. Berger, T., Engzell, P., Eriksson, B., and Molinder, J. (2022). "Social Mobility in Sweden Before the Welfare State." *Journal of Economic History*, forthcoming.
 2. Betthäuser, B., Bach-Mortensen, A. M., and Engzell, P. (2022). "A Systematic Review and Meta-Analysis of the Evidence on Learning During the COVID-19 Pandemic." *Nature Human Behaviour*, forthcoming.
-3. Berger, T., Engzell, P., Eriksson, B., and Molinder, J. (2022). "Social Mobility in Sweden Before the Welfare State." *Journal of Economic History*, forthcoming.
+3. Engzell, P. (2022). "A Universe of Uncertainty Hiding in Plain Sight." [*Proceedings of the National Academy of Sciences*](https://doi.org/10.1073/pnas.2218530120).
 4. Berger, T., and Engzell, P. (2022). "Industrial Automation and Intergenerational Income Mobility in the United States." [*Social Science Research*](https://doi.org/10.1016/j.ssresearch.2021.102686). 
 5. Engzell, P., Frey, A., and Verhagen, M. D. (2021). "Learning Loss Due to School Closures During the COVID-19 Pandemic." [*Proceedings of the National Academy of Sciences*](https://doi.org/10.1073/pnas.2022376118).
 6. Engzell, P., and Rohrer, J. (2021). "Improving Social Science: Lessons from the Open Science Movement." [*PS: Political Science & Politics*](https://doi.org/10.1017/S1049096520000967).
