@@ -29,7 +29,7 @@ Other Writing
 - Engzell, P., Frey, A., and Verhagen, M.D. (2020). "How Do School Closures Affect Student Learning? It’s Worse Than You Think." [*Population Europe*](https://population-europe.eu/research/policy-insights/how-do-school-closures-affect-student-learning-its-worse-you-think).
 - Engzell, P., and Tropf, F. (2020). "What Studying Twins Tells Us about Inequality of Educational Opportunity." [*Work in Progress*](http://www.wipsociology.org/2020/03/26/what-studying-twins-tells-us-about-inequality-of-educational-opportunity/).
 - Engzell, P., and Tropf, F. (2020). "Nature, Nurture, and Intergenerational Mobility." [*VoxEU*](https://voxeu.org/article/nature-nurture-and-intergenerational-mobility).
-- Engzell, P., and Tropf, F. (2020). "Reducing Social Inequities Unintentionally Heightens Importance Of Genetics". [*MedicalResearch.com*](https://medicalresearch.com/genetic-research/education-reducing-social-inequities-unintentionally-heightens-importance-of-genetics/52857/).
-- Engzell, P., and Tropf, F. (2019). "The Long Arm of the Family". [*Population Europe*](https://population-europe.eu/pop-digest/long-arm-family).
+- Engzell, P., and Tropf, F. (2020). "Reducing Social Inequities Unintentionally Heightens Importance Of Genetics". [*MedicalResearch.com*](https://medicalresearch.com/education-reducing-social-inequities-unintentionally-heightens-importance-of-genetics/).
+- Engzell, P., and Tropf, F. (2019). "The Long Arm of the Family". [*Population Europe*](https://population-europe.eu/research/popdigests/long-arm-family).
 - Berger, T., and Engzell, P. (2019). "Brave Old World: Immigration, Inequality and Intergenerational Mobility in the US." [*VoxEU*](https://voxeu.org/article/immigration-inequality-and-intergenerational-mobility-us).
 - Berger, T., and Engzell, P. (2019). "Ursprungets sociala mobilitet." [*Ekonomistas*](https://ekonomistas.se/2019/03/18/gastinlagg-ursprungets-sociala-mobilitet/).
