@@ -24,6 +24,7 @@ permalink: /publications/
 {: reversed="reversed"}
 
 Other Writing
+- Engzell, P., Liss, E. (2023). "Teacher Strikes: What Consequences for Pupils?" [*Economics Observatory*](https://www.economicsobservatory.com/teacher-strikes-what-consequences-for-pupils)
 - Engzell, P., Betthäuser, B., and Bach-Mortensen, A.M. (2022). "What Have Two Years of Interrupted Schooling Taught Us About Learning?" [*Economics Observatory*](https://www.economicsobservatory.com/what-have-two-years-of-interrupted-schooling-taught-us-about-learning).
 - Engzell, P., Frey, A., and Verhagen, M.D. (2020). "The Collateral Damage to Children’s Education During Lockdown." [*VoxEU*](https://voxeu.org/article/collateral-damage-children-s-education-during-lockdown).
 - Engzell, P., Frey, A., and Verhagen, M.D. (2020). "How Do School Closures Affect Student Learning? It’s Worse Than You Think." [*Population Europe*](https://population-europe.eu/research/policy-insights/how-do-school-closures-affect-student-learning-its-worse-you-think).
