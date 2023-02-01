@@ -5,7 +5,7 @@ author: "Per Engzell"
 permalink: /teaching/
 ---
 
-If you're a London-based PhD student: I'm recruiting Teaching Assistants for 2023/24. Get in touch! 
+If you're a London-based PhD student: I'm recruiting Postgraduate Teaching Assistants for 2023/24. Get in touch! 
 
 In 2023/24 I will be the module lead for Social Inequality and Mobility (SOCS0045) and Social Change Within Contemporary Society (SOCS0025), both within the BSc programmes [Social Sciences](https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/social-sciences-bsc) and [Social Sciences with Data Science](https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/social-sciences-data-science-bsc).
 
