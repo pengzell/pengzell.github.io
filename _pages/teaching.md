@@ -5,6 +5,12 @@ author: "Per Engzell"
 permalink: /teaching/
 ---
 
-My lecture slides for Intermediate Quantitative Methods at University of Oxford's Graduate Program in Sociology are available here: *[Preliminaries](https://github.com/pengzell/pengzell.github.io/blob/master/_content/IQM_Prelims.pdf), [Missing data](https://github.com/pengzell/pengzell.github.io/blob/master/_content/IQM_Missing.pdf), [Measurement error](https://github.com/pengzell/pengzell.github.io/blob/master/_content/IQM_Errors.pdf), [Instrumental variables](https://github.com/pengzell/pengzell.github.io/blob/master/_content/IQM_IV.pdf), [Multiple comparison](https://github.com/pengzell/pengzell.github.io/blob/master/_content/IQM_Comparison.pdf), [Regression artefacts](https://github.com/pengzell/pengzell.github.io/blob/master/_content/IQM_Artefacts.pdf).*
+If you're a London based PhD student: I'm recruiting Teaching Assistants for 2023/24. Get in touch! 
 
-In fall 2022, I will be teaching Principles of Social Science Research (POLS0007) at UCL's Philosophy, Politics and Economics BSc Program. 
+In 2023/24 I will be the module lead for Social Inequality and Mobility (SOCS0045) and Social Change Within Contemporary Society (SOCS0025), both within the BSc programmes Social Sciences and Social Sciences with Data Science.
+
+In 2022/23 I was module co-lead for Principles of Social Science Research (POLS0007) within the BSc programmes Social Sciences with Data Science, Geography, Public Health, and Philosophy, Politics and Economics. Lecture slides: *[1](https://github.com/pengzell/pengzell.github.io/blob/master/_content/POLS0007-1.pdf), [2](https://github.com/pengzell/pengzell.github.io/blob/master/_content/POLS0007-2.pdf), [3](https://github.com/pengzell/pengzell.github.io/blob/master/_content/POLS0007-3.pdf), [4](https://github.com/pengzell/pengzell.github.io/blob/master/_content/POLS0007-4.pdf), [5](https://github.com/pengzell/pengzell.github.io/blob/master/_content/POLS0007-5.pdf)*
+
+In Oxford, I have previously taught Sociological Theory within the Philosophy, Politics and Economics BA, and Intermediate Quantitative Methods within the Sociology MSc. Lecture slides: *[1](https://github.com/pengzell/pengzell.github.io/blob/master/_content/IQM_Prelims.pdf), [2](https://github.com/pengzell/pengzell.github.io/blob/master/_content/IQM_Missing.pdf), [3](https://github.com/pengzell/pengzell.github.io/blob/master/_content/IQM_Errors.pdf), [4](https://github.com/pengzell/pengzell.github.io/blob/master/_content/IQM_IV.pdf), [5](https://github.com/pengzell/pengzell.github.io/blob/master/_content/IQM_Comparison.pdf), [6](https://github.com/pengzell/pengzell.github.io/blob/master/_content/IQM_Artefacts.pdf).*
+
+I am supervising or have supervised students at the BSc, MSc, and PhD level. 
