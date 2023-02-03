@@ -17,8 +17,8 @@ permalink: /publications/
 10. Engzell, P., Mood, C., and Jonsson, J. O. (2020). "It's All about the Parents: Inequality Transmission across Three Generations in Sweden." [*Sociological Science*](https://doi.org/10.15195/v7.a10).
 11. Engzell, P., and Tropf, F. (2019). "Heritability of Education Rises with Intergenerational Mobility." [*Proceedings of the National Academy of Sciences*](https://doi.org/10.1073/pnas.1912998116).
 12. Engzell, P. (2019). "Aspiration Squeeze: The Struggle of Children to Positively Selected Immigrants." [*Sociology of Education*](https://doi.org/10.1177/0038040718822573).
-13. Berger, T., and Engzell, P. (2019). "American Geography of Opportunity Reveals European Origins." [*Proceedings of the National Academy of Sciences*](https://doi.org/10.1073/pnas.1810893116).
-14. Engzell, P., and Ichou, M. (2019). "Status Loss: The Burden of Positively Selected Immigrants." [*International Migration Review*](https://doi.org/10.1177/0197918319850756).
+13. Engzell, P., and Ichou, M. (2019). "Status Loss: The Burden of Positively Selected Immigrants." [*International Migration Review*](https://doi.org/10.1177/0197918319850756).
+14. Berger, T., and Engzell, P. (2019). "American Geography of Opportunity Reveals European Origins." [*Proceedings of the National Academy of Sciences*](https://doi.org/10.1073/pnas.1810893116).
 15. Parameshwaran, M. and Engzell, P. (2015). "Ethnicity in England: What Parents’ Country of Birth Can and Can’t Tell Us about Their Children’s Ethnic Identification." [*Journal of Ethnic and Migration Studies*](https://doi.org/10.1080/1369183X.2014.920690).
 16. Engzell, P., and Jonsson, J. O. (2015). "Estimating Social and Ethnic Inequality in School Surveys: Biases from Child Misreporting and Parent Nonresponse." [*European Sociological Review*](https://doi.org/10.1093/esr/jcv005).
 {: reversed="reversed"}
