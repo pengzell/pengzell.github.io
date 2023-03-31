@@ -6,7 +6,7 @@ permalink: /publications/
 ---
 
 0. Engzell, P., and Mood, C. (2023). "Understanding Patterns and Trends in Income Mobility through Multiverse Analysis." *American Sociological Review*, conditionally accepted. 
-1. Berger, T., Engzell, P., Eriksson, B., and Molinder, J. (2023). "Social Mobility in Sweden Before the Welfare State." *Journal of Economic History*, forthcoming. 
+1. Berger, T., Engzell, P., Eriksson, B., and Molinder, J. (2023). "Social Mobility in Sweden Before the Welfare State." [*Journal of Economic History*](https://doi.org/10.1017/S0022050723000098).
 2. Betthäuser, B., Bach-Mortensen, A. M., and Engzell, P. (2023). "A Systematic Review and Meta-Analysis of the Evidence on Learning During the COVID-19 Pandemic." [*Nature Human Behaviour*](https://doi.org/10.1038/s41562-022-01506-4).
 3. Engzell, P. (2023). "A Universe of Uncertainty Hiding in Plain Sight." [*Proceedings of the National Academy of Sciences*](https://doi.org/10.1073/pnas.2218530120).
 4. Berger, T., and Engzell, P. (2022). "Industrial Automation and Intergenerational Income Mobility in the United States." [*Social Science Research*](https://doi.org/10.1016/j.ssresearch.2021.102686). 
