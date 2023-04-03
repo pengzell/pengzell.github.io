@@ -35,6 +35,13 @@ Why do inequalities in schooling persist, even in relatively egalitarian school 
 Recent studies use family fixed effects to estimate the influence of parental characteristics on children, a practice we call the “discordant parenting design”. This approach is valid only if treatment effects are equal within and between families. This assumption is mostly not informed by relevant theory and, we argue, unlikely to hold in practice. In addition, within-family confounding, reverse causality, and selection into identification complicate the interpretation of these studies further. We discuss three applied examples—the effects of parenting, family income, and neighborhood context—and provide some general guidance. To avoid misinterpretation, researchers should have a strong grasp of the variance that enters into estimation, and not just the potential confounders that a given strategy is designed to deal with.
 </details>
 
+*Lasting Effects of Temporary School Closures* (with Erik Liss)
+| draft on request
+<details>
+<summary>Read more</summary>
+During the recent pandemic, unanticipated school closures  have led to short-run deficits in student learning around the world. Less is known about the long-run consequences of such learning deficits. We shed light on this question using a 1989 teacher strike that forced schools in 44 Swedish municipalities to close over a period of 4--5 weeks. We implement a difference-in-differences design, comparing treated and untreated municipalities using various matching and weighting estimators. In the short run, students experienced a reduction in Grade Point Averages (GPA) of about 2 percentile points (0.05 SD). This effect is driven by boys from disadvantaged homes, and persists up to 5 years after the strike. In the long run, exposed students experienced a 1.8\% reduction in earnings, and this effect is larger in disadvantaged groups. Our results suggest that school closures can have lasting effects on human capital and intergenerational mobility, unless action is take to mitigate their harm. 
+</details>
+
 *Is Immigrant Optimism Contagious? Spillovers of Immigrant Friends in School* (with Are Skeie Hermansen)
 | draft on request
 <details>
