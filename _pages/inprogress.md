@@ -11,6 +11,12 @@ permalink: /inprogress/
 Rising inequalities in rich countries have led to concerns that the economic ladder is getting harder to climb. Yet, research on trends in intergenerational income mobility finds conflicting results. To better understand this variation, we adopt a multiverse approach that estimates trends over 82,944 different definitions of income mobility, varying how and for whom income is measured. Our analysis draws on comprehensive register data for Swedish cohorts born 1958–1977 and their parents. We find that income mobility has declined but for reasons neglected by previous research: improved gender equality in the labor market raises intergenerational persistence in women's earnings and the household incomes of both men and women. Dominant theories that focus on childhood investments have blinded researchers to this development. Methodologically, we show how multiverse analysis can be used with abduction—inference to the best explanation—to improve theory building in social science. 
 </details>
 
+*Within-School Achievement Sorting in Comprehensive and Tracked Systems* (with Isabel Raabe) | [working paper](https://osf.io/preprints/socarxiv/x6cbt)
+<details>
+<summary>Read more</summary>
+Why do inequalities in schooling persist, even in relatively egalitarian school systems? This paper examines within-school sorting as an explanation. We use classroom data on friendship networks in 480 European secondary schools, and contrast comprehensive (England, Sweden) and tracked systems (Germany, Netherlands). Our question is to what extent comprehensive systems reduce achievement sorting at the level of (a) schools, (b) classrooms, and (c) friendships. Between-school variance in achievement is lower in comprehensive systems. However, this is counterbalanced by greater sorting within schools, between classrooms and, especially, in friendship networks. Still, comprehensive schools create more equal environments for two reasons. First, the difference in between-school sorting is larger than the difference in within-school sorting. Second, within-school sorting is less strongly related to social background characteristics. These findings help explain both why comprehensive schools produce more equal outcomes, and how substantial inequality can nevertheless persist.
+</details>
+
 *Firms and the Intergenerational Transmission of Labor Market Advantage* (with Nathan Wilmers) | [working paper](https://osf.io/preprints/socarxiv/mv3e9)
 <details>
 <summary>Read more</summary>
@@ -27,12 +33,6 @@ How do opportunities for intergenerational mobility depend on the place where yo
 <details>
 <summary>Read more</summary>
 Recent studies use family fixed effects to estimate the influence of parental characteristics on children, a practice we call the “discordant parenting design”. This approach is valid only if treatment effects are equal within and between families. This assumption is mostly not informed by relevant theory and, we argue, unlikely to hold in practice. In addition, within-family confounding, reverse causality, and selection into identification complicate the interpretation of these studies further. We discuss three applied examples—the effects of parenting, family income, and neighborhood context—and provide some general guidance. To avoid misinterpretation, researchers should have a strong grasp of the variance that enters into estimation, and not just the potential confounders that a given strategy is designed to deal with.
-</details>
-
-*Within-School Achievement Sorting in Comprehensive and Tracked Systems* (with Isabel Raabe) | [working paper](https://osf.io/preprints/socarxiv/x6cbt)
-<details>
-<summary>Read more</summary>
-Why do inequalities in schooling persist, even in relatively egalitarian school systems? This paper examines within-school sorting as an explanation. We use classroom data on friendship networks in 480 European secondary schools, and contrast comprehensive (England, Sweden) and tracked systems (Germany, Netherlands). Our question is to what extent comprehensive systems reduce achievement sorting at the level of (a) schools, (b) classrooms, and (c) friendships. Between-school variance in achievement is lower in comprehensive systems. However, this is counterbalanced by greater sorting within schools, between classrooms and, especially, in friendship networks. Still, comprehensive schools create more equal environments for two reasons. First, the difference in between-school sorting is larger than the difference in within-school sorting. Second, within-school sorting is less strongly related to social background characteristics. These findings help explain both why comprehensive schools produce more equal outcomes, and how substantial inequality can nevertheless persist.
 </details>
 
 *Lasting Effects of Temporary School Closures* (with Erik Liss)
