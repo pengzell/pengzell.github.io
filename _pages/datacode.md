@@ -5,6 +5,9 @@ author: "Per Engzell"
 permalink: /datacode/
 ---
 
+*Understanding Patterns and Trends in Income Mobility through Multiverse Analysis* 
+| [published](https://doi.org/10.1177/00031224231180607) | [replication](https://osf.io/sqem7/)
+
 *Industrial Automation and Intergenerational Income Mobility in the United States* 
 | [published](https://doi.org/10.1016/j.ssresearch.2021.102686) | [preprint](https://osf.io/preprints/socarxiv/zcax3/) | [replication](https://osf.io/8ez4v/)
 
