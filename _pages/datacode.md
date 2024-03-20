@@ -6,7 +6,10 @@ permalink: /datacode/
 ---
 
 *Understanding Patterns and Trends in Income Mobility through Multiverse Analysis* 
-| [published](https://doi.org/10.1177/00031224231180607) | [replication](https://osf.io/sqem7/)
+| [published](https://doi.org/10.1177/00031224231180607) | [preprint](http://osf.io/preprints/socarxiv/gd2t6) | [replication](https://osf.io/sqem7/)
+
+*Social Mobility in Sweden before the Welfare State* 
+| [published](https://doi.org/10.1017/S0022050723000098) | [preprint](https://osf.io/preprints/socarxiv/ebmva) | [replication](https://doi.org/10.3886/E182882V1)
 
 *Industrial Automation and Intergenerational Income Mobility in the United States* 
 | [published](https://doi.org/10.1016/j.ssresearch.2021.102686) | [preprint](https://osf.io/preprints/socarxiv/zcax3/) | [replication](https://osf.io/8ez4v/)
