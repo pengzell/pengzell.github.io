@@ -23,12 +23,6 @@ As robustness of social science is getting more attention, analytical choices ha
 How do opportunities for intergenerational mobility depend on the place where you live? We address this question using European Social Survey data, studying the association in occupational rank and social class between parents and children, and how it varies by region. Both ways of measuring occupational mobility produce similar results but there is a clear distinction between upward mobility, largely driven by structural change, and relative mobility which is thought to closer reflect (in)equality of opportunity. Capital regions are hubs of absolute upward, but not always relative, mobility. Absolute upward mobility is correlated with a range of human capital, labor market, demographic, and socio-spatial characteristics. By contrast, the only robust predictor of relative mobility is income differences between social classes. More inequality entails less mobility, and this relationship holds within countries.
 </details>
 
-*A Caution on the Discordant Parenting Design* (with Martin Hällsten) | [working paper](https://osf.io/preprints/socarxiv/rx4z6)
-<details>
-<summary>Read more</summary>
-Recent studies use family fixed effects to estimate the influence of parental characteristics on children, a practice we call the “discordant parenting design”. This approach is valid only if treatment effects are equal within and between families. This assumption is mostly not informed by relevant theory and, we argue, unlikely to hold in practice. In addition, within-family confounding, reverse causality, and selection into identification complicate the interpretation of these studies further. We discuss three applied examples—the effects of parenting, family income, and neighborhood context—and provide some general guidance. To avoid misinterpretation, researchers should have a strong grasp of the variance that enters into estimation, and not just the potential confounders that a given strategy is designed to deal with.
-</details>
-
 *Lasting Effects of Temporary School Closures* (with Erik Liss)
 | draft on request
 <details>
