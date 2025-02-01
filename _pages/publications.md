@@ -5,6 +5,7 @@ author: "Per Engzell"
 permalink: /publications/
 ---
 
+1. Engzell, P., and Hällsten, M. (2024). "A Caution on Sibling Comparisons in Studying Effects of the Rearing Environment." [*European Sociological Review*](https://doi.org/10.1093/esr/jcae037).
 1. Engzell, P., and Mood, C. (2023). "Understanding Patterns and Trends in Income Mobility through Multiverse Analysis." [*American Sociological Review*](https://doi.org/10.1177/00031224231180607).
 2. Engzell, P., and Raabe, I. (2023). "Within-School Achievement Sorting in Comprehensive and Tracked Systems". [*Sociology of Education*](https://doi.org/10.1177/00380407231183952).
 3. Berger, T., Engzell, P., Eriksson, B., and Molinder, J. (2023). "Social Mobility in Sweden Before the Welfare State." [*Journal of Economic History*](https://doi.org/10.1017/S0022050723000098).
