@@ -12,4 +12,4 @@ I work on social stratification and mobility, where my current interests span lo
 
 My research has been featured in the *New York Times*, *Washington Post*, *Financial Times*, *The Economist*, and on podcasts such as *The Weeds*. My research on school closures during COVID-19 influenced policy in several countries, was presented at the World Bank, the OECD, and the European Commission, and received the National Academy of Sciences [Cozzarelli Prize](https://www.youtube.com/watch?v=Yhuv1yJrdC4). 
 
-You can reach me at [p.engzell@ucl.ac.uk](mailto:p.engzell@ucl.ac.uk) or one of my social media accounts: [Twitter/X](https://twitter.com/pengzell), [Bluesky](https://bsky.app/profile/pengzell.bsky.social), <a rel="me" href="https://sciences.social/@per">Mastodon</a>.
+You can reach me at [p.engzell@ucl.ac.uk](mailto:p.engzell@ucl.ac.uk) or find me on [Bluesky](https://bsky.app/profile/pengzell.bsky.social), the only social media platform where I'm active.
