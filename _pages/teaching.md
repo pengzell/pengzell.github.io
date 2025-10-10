@@ -5,7 +5,7 @@ author: "Per Engzell"
 permalink: /teaching/
 ---
 
-I am currently on research leave and not teaching in the academic year 2025/26.
+I am on research leave and not teaching in the academic year 2025/26.
 
 Usually, I am the module lead for [Principles of Social Science Research (POLS0007)](https://www.ucl.ac.uk/module-catalogue/modules/principles-of-social-science-research-POLS0007) within the BSc programmes [Social Sciences with Data Science](https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/social-sciences-data-science-bsc), [Population Health Sciences](https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/population-health-sciences-bsc), [Geography](https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/geography-bsc), and [Philosophy, Politics and Economics](https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/philosophy-politics-and-economics-bsc). Lecture slides: [1](https://github.com/pengzell/pengzell.github.io/blob/master/_content/POLS0007-1.pdf), [2](https://github.com/pengzell/pengzell.github.io/blob/master/_content/POLS0007-2.pdf), [3](https://github.com/pengzell/pengzell.github.io/blob/master/_content/POLS0007-3.pdf), [4](https://github.com/pengzell/pengzell.github.io/blob/master/_content/POLS0007-4.pdf), [5](https://github.com/pengzell/pengzell.github.io/blob/master/_content/POLS0007-5.pdf). 
 
