@@ -5,11 +5,14 @@ author: "Per Engzell"
 permalink: /datacode/
 ---
 
-*Understanding Patterns and Trends in Income Mobility through Multiverse Analysis* 
+*The Geography of Intergenerational Mobility in Europe* 
 | [published](https://doi.org/10.1162/euso.a.39) | [preprint](https://osf.io/preprints/socarxiv/gzwha) | [replication](https://osf.io/24w36/)
 
 *How Robust Are Country Rankings in Educational Mobility?* 
 | [published](https://doi.org/10.15195/v12.a36) | [preprint](https://osf.io/preprints/socarxiv/9zkc2) | [replication](https://osf.io/vcdsx/)
+
+*Firms and the Intergenerational Transmission of Labor Market Advantage* 
+| [published](https://doi.org/10.1086/736993) | [preprint](https://osf.io/mv3e9) | [replication](https://osf.io/mp5bg)
 
 *Understanding Patterns and Trends in Income Mobility through Multiverse Analysis* 
 | [published](https://doi.org/10.1177/00031224231180607) | [preprint](http://osf.io/preprints/socarxiv/gd2t6) | [replication](https://osf.io/sqem7/)
