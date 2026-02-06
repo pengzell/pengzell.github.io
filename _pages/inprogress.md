@@ -9,7 +9,7 @@ Since 2025, I'm the Principal Investigator on a European Research Council (ERC) 
 
 Other projects I'm working on include: 
 
-*Rethinking the Analysis of Social Change* (with Benjamin Elbers and Jonathan Mellon)
+*Rethinking the Analysis of Social Change* (with Ben Elbers and Jonathan Mellon)
 <details>
 <summary>Abstract</summary>
 Sociologists have long recognized population turnover, meaning who enters and exits a population, as a fundamental mechanism of social change, invoked to explain phenomena ranging from secularization and gender equality to political realignments and scientific innovation. Yet researchers often study these dynamics using age--period--cohort (APC) tools, assuming that APC models can reveal how much change reflects cohort replacement versus shifts within individuals. We argue that this strategy is mistaken. APC dimensions cannot be independently interpreted, and APC coefficients do not map onto the processes that actually generate historical change. Moreover, APC models ignore the population structure that determines the aggregate impact of micro-level transitions. We propose a conceptually grounded alternative: a decomposition that directly estimates the contributions of population turnover and intraindividual change. This approach aligns with the substantive questions scholars ask, namely how societies change because people change, and how they change because people are replaced.
