@@ -5,7 +5,7 @@ author: "Per Engzell"
 permalink: /inprogress/
 ---
 
-Currently, my main line of research is my 2025--2030 [ERC starting grant](https://perengzell.com/mamo/), with a first publication out in [*American Journal of Sociology*](https://doi.org/10.1086/736993) and more underway. 
+My main line of research right now is my 2025--2030 [ERC starting grant](https://perengzell.com/mamo/), with a first publication out in [*American Journal of Sociology*](https://doi.org/10.1086/736993) and more underway. 
 
 Other projects I'm working on include: 
 
