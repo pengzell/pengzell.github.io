@@ -5,10 +5,10 @@ author: "Per Engzell"
 permalink: /publications/
 ---
 
-1. Granström, O., and Engzell, P. (2025). "The Geography of Intergenerational Mobility in Europe." [*European Societies*](https://doi.org/10.1162/euso.a.39).
+1. Granström, O., and Engzell, P. (2026). "The Geography of Intergenerational Mobility in Europe." [*European Societies*](https://doi.org/10.1162/euso.a.39).
 1. Strömberg, E., and Engzell, P. (2025). "How Robust are Country Rankings in Educational Mobility?" [*Sociological Science*](https://doi.org/10.15195/v12.a36). 
 1. Engzell, P., and Wilmers, N. (2025). "Firms and the Intergenerational Transmission of Labor Market Advantage." [*American Journal of Sociology*](https://doi.org/10.1086/736993).
-1. Engzell, P., and Hällsten, M. (2024). "A Caution on Sibling Comparisons in Studying Effects of the Rearing Environment." [*European Sociological Review*](https://doi.org/10.1093/esr/jcae037).
+1. Engzell, P., and Hällsten, M. (2025). "A Caution on Sibling Comparisons in Studying Effects of the Rearing Environment." [*European Sociological Review*](https://doi.org/10.1093/esr/jcae037).
 1. Engzell, P., and Mood, C. (2023). "Understanding Patterns and Trends in Income Mobility through Multiverse Analysis." [*American Sociological Review*](https://doi.org/10.1177/00031224231180607).
 1. Engzell, P., and Raabe, I. (2023). "Within-School Achievement Sorting in Comprehensive and Tracked Systems". [*Sociology of Education*](https://doi.org/10.1177/00380407231183952).
 1. Berger, T., Engzell, P., Eriksson, B., and Molinder, J. (2023). "Social Mobility in Sweden Before the Welfare State." [*Journal of Economic History*](https://doi.org/10.1017/S0022050723000098).
