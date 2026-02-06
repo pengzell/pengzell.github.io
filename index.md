@@ -14,6 +14,6 @@ My research has been featured in the *New York Times*, *Washington Post*, *Finan
 
 My most recent project is [*Markets and Mobility: How Employers Structure Economic Opportunity*](https://perengzell.com/mamo/), funded with 1.5 million euro by the European Research Council (ERC Starting Grant). I am also leading a project on *Employer Pay Disparities in the Swedish Labor Market*, funded with 500 000 euro by the Swedish Research Council for Health, Working Life and Welfare. 
 
-I am an Associate Editor of the [European Sociological Review](https://academic.oup.com/esr) and an Editorial Board Member of [Socius](https://journals.sagepub.com/home/SRD), the American Sociological Association's open access journal. Until recently, I was an Associate Editor of [*Research in Social Stratification and Mobility*](https://www.sciencedirect.com/journal/research-in-social-stratification-and-mobility). 
+I am an Associate Editor at the [*European Sociological Review*](https://academic.oup.com/esr) and Editorial Board Member of [*Socius*](https://journals.sagepub.com/home/SRD), the American Sociological Association's open access journal. Until recently, I was an Associate Editor at [*Research in Social Stratification and Mobility*](https://www.sciencedirect.com/journal/research-in-social-stratification-and-mobility). 
 
 You can reach me at [p.engzell@ucl.ac.uk](mailto:p.engzell@ucl.ac.uk) or find me on [Bluesky](https://bsky.app/profile/pengzell.bsky.social), the only social media platform where I'm active.
