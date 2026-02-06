@@ -10,7 +10,7 @@ I am an Associate Professor of Sociology at [UCL Social Research Institute](http
 
 I serve as an Associate Editor at the [*European Sociological Review*](https://academic.oup.com/esr) and Editorial Board Member of [*Socius*](https://journals.sagepub.com/home/SRD). Until recently, I was an Associate Editor at [*Research in Social Stratification and Mobility*](https://www.sciencedirect.com/journal/research-in-social-stratification-and-mobility). 
 
-My research focuses on social stratification and mobility, where my current interests span worker-employer dynamics, long-run trends in intergenerational mobility, and disequalizing consequences of disruptive events. I am also committed to advancing transparency in social science. 
+My research focuses on economic mobility, where my current interests span worker-employer dynamics, long-run trends in intergenerational mobility, and disequalizing consequences of disruptive events. I am also committed to advancing transparency in social science. 
 
 My most recent project is [*Markets and Mobility: How Employers Structure Economic Opportunity*](https://perengzell.com/mamo/), funded with 1.5 million euro by the European Research Council (ERC Starting Grant). I am also leading a project on *Employer Pay Disparities in the Swedish Labor Market*, funded with 500 000 euro by the Swedish Research Council for Health, Working Life and Welfare. 
 
