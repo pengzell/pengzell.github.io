@@ -8,9 +8,9 @@ author: "Per Engzell"
 
 I am an Associate Professor of Sociology at [UCL Social Research Institute](https://www.ucl.ac.uk/ioe/departments-and-centres/departments/ucl-social-research-institute), University College London and the [Swedish Institute for Social Research](https://www.su.se/swedish-institute-for-social-research/), Stockholm University. I am also an Associate Member of [Nuffield College](https://www.nuffield.ox.ac.uk), University of Oxford. 
 
-I serve as an Associate Editor at the [*European Sociological Review*](https://academic.oup.com/esr) and Editorial Board Member of [*Socius*](https://journals.sagepub.com/home/SRD). Until recently, I was an Associate Editor at [*Research in Social Stratification and Mobility*](https://www.sciencedirect.com/journal/research-in-social-stratification-and-mobility). 
+I serve as an Associate Editor at the [*European Sociological Review*](https://academic.oup.com/esr) and Editorial Board Member of [*Socius*](https://journals.sagepub.com/home/SRD). Until recently, I was an Associate Editor at [*Research in Social Stratification and Mobility*](https://www.sciencedirect.com/journal/research-in-social-stratification-and-mobility). I am committed to advancing transparency in social science. 
 
-My research focuses on social mobility, where my current interests span labor market dynamics, the legacy of historical institutions, and disequalizing consequences of disruptive events. I am also committed to advancing transparency in social science. 
+My research focuses on social mobility, where my current interests span labor market dynamics, the legacy of historical institutions, and disequalizing consequences of disruptive events.
 
 My most recent project is [*Markets and Mobility: How Employers Structure Economic Opportunity*](https://perengzell.com/mamo/), funded with 1.5 million euro by the European Research Council (ERC Starting Grant). I am also leading a project on *Employer Pay Disparities in the Swedish Labor Market*, funded with 500 000 euro by the Swedish Research Council for Health, Working Life and Welfare. 
 
