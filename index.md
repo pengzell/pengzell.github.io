@@ -14,6 +14,6 @@ My project [*Markets and Mobility: How Employers Structure Economic Opportunity*
 
 My work has been covered by *The Economist, Financial Times, The New York Times, Time Magazine, Newsweek, Washington Post,* and other news media. My research on school closures during COVID-19 influenced policy in several countries, was presented at the World Bank, the OECD, and the European Commission, and received the National Academy of Sciences [Cozzarelli Prize](https://www.youtube.com/watch?v=Yhuv1yJrdC4).
 
-Until recently, I was an Associate Editor at [*Research in Social Stratification and Mobility*](https://www.sciencedirect.com/journal/research-in-social-stratification-and-mobility). I am currently an Associate Editor at the [*European Sociological Review*](https://academic.oup.com/esr) and an Editorial Board Member at [*Socius*](https://journals.sagepub.com/home/SRD). 
+Until recently, I was an Associate Editor at [*Research in Social Stratification and Mobility*](https://www.sciencedirect.com/journal/research-in-social-stratification-and-mobility). I am currently an Associate Editor at the [*European Sociological Review*](https://academic.oup.com/esr) and an Editorial Board Member at [*Socius*](https://journals.sagepub.com/home/SRD), the open access journal of the American Sociological Association.
 
 You can reach me at [p.engzell@ucl.ac.uk](mailto:p.engzell@ucl.ac.uk) or find me on [Bluesky](https://bsky.app/profile/pengzell.bsky.social), the only social media platform where I'm active.
