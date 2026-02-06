@@ -30,5 +30,5 @@ During the recent pandemic, unanticipated school closures  have led to short-run
 *Teaching Teachers* (with Danilo Kuzmanic and John Jerrim)
 <details>
 <summary>Abstract</summary>
-Using Chilean administrative data, we estimate how teacher value-added (VA) affects the VA of students who later become teachers. Exposure to a math teacher with 1 SD higher VA raises teacher VA in the next generation by 0.20 SD and student achievement one generation removed by 0.06 SD. Effects compound with longer exposure and appear driven by observable classroom practices. Under plausible assumptions, these spillovers raise cumulative returns to instructional quality by 40 percent over two generations and 66 percent in the long run.
+Good teachers are role models. Using Chilean administrative data, we estimate how teacher value-added (VA) affects the VA of students who later become teachers. Exposure to a math teacher with 1 SD higher VA raises teacher VA in the next generation by 0.20 SD and student achievement one generation removed by 0.06 SD. Effects compound with longer exposure and appear driven by observable classroom practices. Under plausible assumptions, these spillovers raise cumulative returns to instructional quality by 40 percent over two generations and 66 percent in the long run.
 </details>
