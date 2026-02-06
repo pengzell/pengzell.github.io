@@ -5,7 +5,7 @@ author: "Per Engzell"
 permalink: /inprogress/
 ---
 
-Since 2025, I'm the Principal Investigator on a European Research Council (ERC) starting grant titled *Markets and Mobility: How Employers Structure Economic Opportunity*. The first publication of this project is out in [*American Journal of Sociology*](https://doi.org/10.1086/736993), with more work underway. A project website is under construction [here](https://perengzell.com/mamo/).
+Since 2025, I'm the Principal Investigator on a European Research Council (ERC) starting grant titled *Markets and Mobility: How Employers Structure Economic Opportunity*. The first publication of this project is out in [*American Journal of Sociology*](https://doi.org/10.1086/736993). A project website is under construction [here](https://perengzell.com/mamo/).
 
 Other projects I'm working on include: 
 
