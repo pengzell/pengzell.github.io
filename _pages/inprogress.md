@@ -9,6 +9,12 @@ My main line of research right now is my 2025--2030 [ERC starting grant](https:/
 
 Other projects I'm working on include: 
 
+[*The Paper Factory*](https://osf.io/preprints/socarxiv/24xfq) (with Nathan Wilmers)
+<details>
+<summary>Abstract</summary>
+How can large language models (LLMs) contribute to social science research, and what parts of research remain stubbornly human? Building on existing LLM tools, we offer a multi-agent workflow capable of producing a full quantitative social science paper from an initial prompt. The workflow relies on researchers codifying their heuristics for doing data analysis, and we suggest some core design principles for researchers interested in building on this scaffolding. Using this case, we also examine what current LLM capabilities reveal about the organization of research. LLM agents can lower the cost of pursuing high-risk ideas, expand robustness and transparency, bring research to new audiences, and force scholars to articulate the heuristics that create valuable research. But they also pose challenges, both in terms of the quality of papers and in the adequacy of scientific institutions to adapt. Meeting these challenges will require not prohibition or denial, but new institutional norms that make use of these tools observable, auditable, and accountable.
+</details>
+
 *Rethinking the Analysis of Social Change* (with Ben Elbers and Jonathan Mellon)
 <details>
 <summary>Abstract</summary>
