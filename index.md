@@ -6,7 +6,7 @@ author: "Per Engzell"
 
 ![Per Engzell](portrait.jpg){:style="float:right; margin:15px; width: 40%;"}
 
-I am a Professor of Sociology at [UCL Social Research Institute](https://www.ucl.ac.uk/ioe/departments-and-centres/departments/ucl-social-research-institute), University College London, affiliated with the [Swedish Institute for Social Research](https://www.su.se/swedish-institute-for-social-research/), Stockholm University, and [Nuffield College](https://www.nuffield.ox.ac.uk), University of Oxford.
+I am an Associate Professor of Sociology at [UCL Social Research Institute](https://www.ucl.ac.uk/ioe/departments-and-centres/departments/ucl-social-research-institute), University College London, affiliated with the [Swedish Institute for Social Research](https://www.su.se/swedish-institute-for-social-research/), Stockholm University, and [Nuffield College](https://www.nuffield.ox.ac.uk), University of Oxford.
 
 My research focuses on social mobility, where my current interests span labor market dynamics, the legacy of historical institutions, and disequalizing consequences of disruptive events.
 
