@@ -5,7 +5,8 @@ author: "Per Engzell"
 permalink: /publications/
 ---
 
-1. Granström, O., and Engzell, P. (2026). "The Geography of Intergenerational Mobility in Europe." [*European Societies*](https://doi.org/10.1162/euso.a.39).
+1. Engzell, P. (2026). "Preferences over Status." [*European Sociological Review*], forthcoming.
+1. Engzell, P. (2026). "The Geography of Intergenerational Mobility in Europe." [*European Societies*](https://doi.org/10.1162/euso.a.39).
 1. Strömberg, E., and Engzell, P. (2025). "How Robust are Country Rankings in Educational Mobility?" [*Sociological Science*](https://doi.org/10.15195/v12.a36). 
 1. Engzell, P., and Wilmers, N. (2025). "Firms and the Intergenerational Transmission of Labor Market Advantage." [*American Journal of Sociology*](https://doi.org/10.1086/736993).
 1. Engzell, P., and Hällsten, M. (2025). "A Caution on Sibling Comparisons in Studying Effects of the Rearing Environment." [*European Sociological Review*](https://doi.org/10.1093/esr/jcae037).
